@@ -1,4 +1,6 @@
-Experiences:
+## Currently studying .Net Development at IT-Högskolan in Stockholm
+
+### Experiences:
 
 - C#
 - Html
