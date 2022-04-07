@@ -8,8 +8,6 @@
 - .NET Blazor
 - SQL
 - Agile Development
-- .NET 5
-- .NET 6
 - .NET Maui
 - Entity Framework
 - Azure
