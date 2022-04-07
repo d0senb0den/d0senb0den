@@ -1,4 +1,4 @@
-- Experiences:
+Experiences:
 
 - C#
 - Html
