@@ -3,9 +3,13 @@ Experiences:
 - C#
 - Html
 - Xaml
-- Blazor
+- .Net Blazor
 - SQL
 - Agile Development
 - .Net 5
 - .Net 6
-- Maui
+- .Net Maui
+- Entity Framework
+- Azure
+- Asp.net
+- MVC
