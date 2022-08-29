@@ -1,4 +1,4 @@
-## Currently studying .Net Development at IT-Högskolan in Stockholm
+## Studied .Net Development at IT-Högskolan in Stockholm
 
 ### Experiences:
 
